@@ -1,0 +1,4 @@
+.venv
+.env
+
+secret_key.py
